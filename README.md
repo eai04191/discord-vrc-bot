@@ -5,7 +5,11 @@ discord-vrc-bot
 
 公式のカードの代わりにすこし見栄えの良いカードを付けるbot
 
-APIを叩く練習として作ったけど、思った以上に載せるべき情報がなかったので実際に稼働させる予定はありません。
+APIを叩く練習として作ったけど、思った以上に載せて嬉しい情報がありませんでした。もしあなたがVRChat APIとDiscordを組み合わせたBotを作りたいならこのコードは役に立つかもしれません。  
+MITライセンスに従う限り、自由にコードをコピーすることができます。
+
+This is a _Proof of Concept_ using the VRChat API with Discord. At this time, Bot can only create a card from VRChat profile URL, which is not very useful.  
+You are free to fork this or copy the code to improve it, as long as you follow the MIT license.
 
 ## 使いたい人のための使い方
 
